@@ -1,0 +1,32 @@
+.btn-primary{
+    /*background: url(toggle-off-solid.svg) no-repeat;*/
+    width: 20vw;
+    height: 20vh;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+#toggleOff{
+    width: 5vw;
+    height: 10vh;
+}
+.cont1-button{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+.cont2-button{
+    display: flex;
+    justify-content: center;
+}
+.cont-father{
+    border: 2px solid black;
+    width: 50vw;
+    height: 50vh;
+    background-color: chocolate;
+}
